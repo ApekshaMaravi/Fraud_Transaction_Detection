@@ -1,0 +1,10 @@
+The accuracy score is a commonly used metric for classification tasks, and it represents the proportion of correctly classified instances out of all instances in the test set. It provides an indication of how well the model performs in predicting fraud and non-fraud transactions.
+
+1)Gaussian Naive Bayes model
+Accuracy: 0.9955882953877491
+
+
+2)Logistic Regression Model
+Accuracy: 0.9992070876462841
+
+Logistic regression is quite better than Gaussian Naive Bayes model.
